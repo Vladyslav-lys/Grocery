@@ -1,0 +1,12 @@
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Contract\bin\Debug\netstandard2.0\Grocery.BLL.Contract.deps.json
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Contract\bin\Debug\netstandard2.0\Grocery.BLL.Contract.dll
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Contract\bin\Debug\netstandard2.0\Grocery.BLL.Contract.pdb
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Contract\obj\Debug\netstandard2.0\Grocery.BLL.Contract.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Contract\obj\Debug\netstandard2.0\Grocery.BLL.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Contract\obj\Debug\netstandard2.0\Grocery.BLL.Contract.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Contract\obj\Debug\netstandard2.0\Grocery.BLL.Contract.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Contract\obj\Debug\netstandard2.0\Grocery.BLL.Contract.csproj.CopyComplete
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Contract\obj\Debug\netstandard2.0\Grocery.BLL.Contract.dll
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Contract\obj\Debug\netstandard2.0\Grocery.BLL.Contract.pdb
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Contract\bin\Debug\netstandard2.0\Grocery.BLL.Entities.dll
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Contract\bin\Debug\netstandard2.0\Grocery.BLL.Entities.pdb

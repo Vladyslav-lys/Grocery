@@ -1,0 +1,6 @@
+C:\Users\Vlad\source\repos\Grocery.UI\Grocery.UI.Utility\bin\Debug\Grocery.UI.Utility.dll
+C:\Users\Vlad\source\repos\Grocery.UI\Grocery.UI.Utility\bin\Debug\Grocery.UI.Utility.pdb
+C:\Users\Vlad\source\repos\Grocery.UI\Grocery.UI.Utility\obj\Debug\Grocery.UI.Utility.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\Grocery.UI\Grocery.UI.Utility\obj\Debug\Grocery.UI.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Grocery.UI\Grocery.UI.Utility\obj\Debug\Grocery.UI.Utility.dll
+C:\Users\Vlad\source\repos\Grocery.UI\Grocery.UI.Utility\obj\Debug\Grocery.UI.Utility.pdb

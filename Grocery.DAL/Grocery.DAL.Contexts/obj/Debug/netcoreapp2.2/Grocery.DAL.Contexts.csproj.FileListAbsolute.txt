@@ -1,0 +1,12 @@
+C:\Users\Vlad\source\repos\Grocery.DAL\Grocery.DAL.Contexts\obj\Debug\netcoreapp2.2\Grocery.DAL.Contexts.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\Grocery.DAL\Grocery.DAL.Contexts\obj\Debug\netcoreapp2.2\Grocery.DAL.Contexts.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Grocery.DAL\Grocery.DAL.Contexts\obj\Debug\netcoreapp2.2\Grocery.DAL.Contexts.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\Grocery.DAL\Grocery.DAL.Contexts\obj\Debug\netcoreapp2.2\Grocery.DAL.Contexts.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\Grocery.DAL\Grocery.DAL.Contexts\bin\Debug\netcoreapp2.2\Grocery.DAL.Contexts.deps.json
+C:\Users\Vlad\source\repos\Grocery.DAL\Grocery.DAL.Contexts\bin\Debug\netcoreapp2.2\Grocery.DAL.Contexts.dll
+C:\Users\Vlad\source\repos\Grocery.DAL\Grocery.DAL.Contexts\bin\Debug\netcoreapp2.2\Grocery.DAL.Contexts.pdb
+C:\Users\Vlad\source\repos\Grocery.DAL\Grocery.DAL.Contexts\obj\Debug\netcoreapp2.2\Grocery.DAL.Contexts.csproj.CopyComplete
+C:\Users\Vlad\source\repos\Grocery.DAL\Grocery.DAL.Contexts\obj\Debug\netcoreapp2.2\Grocery.DAL.Contexts.dll
+C:\Users\Vlad\source\repos\Grocery.DAL\Grocery.DAL.Contexts\obj\Debug\netcoreapp2.2\Grocery.DAL.Contexts.pdb
+C:\Users\Vlad\source\repos\Grocery.DAL\Grocery.DAL.Contexts\bin\Debug\netcoreapp2.2\Grocery.BLL.Entities.dll
+C:\Users\Vlad\source\repos\Grocery.DAL\Grocery.DAL.Contexts\bin\Debug\netcoreapp2.2\Grocery.BLL.Entities.pdb

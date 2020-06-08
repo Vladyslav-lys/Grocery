@@ -1,0 +1,16 @@
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.UseCases\bin\Debug\netstandard2.0\Grocery.BLL.UseCases.deps.json
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.UseCases\bin\Debug\netstandard2.0\Grocery.BLL.UseCases.dll
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.UseCases\bin\Debug\netstandard2.0\Grocery.BLL.UseCases.pdb
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.UseCases\bin\Debug\netstandard2.0\Grocery.BLL.Contract.dll
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.UseCases\bin\Debug\netstandard2.0\Grocery.BLL.DomainEvents.dll
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.UseCases\bin\Debug\netstandard2.0\Grocery.BLL.Contract.pdb
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.UseCases\bin\Debug\netstandard2.0\Grocery.BLL.DomainEvents.pdb
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.UseCases\obj\Debug\netstandard2.0\Grocery.BLL.UseCases.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.UseCases\obj\Debug\netstandard2.0\Grocery.BLL.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.UseCases\obj\Debug\netstandard2.0\Grocery.BLL.UseCases.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.UseCases\obj\Debug\netstandard2.0\Grocery.BLL.UseCases.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.UseCases\obj\Debug\netstandard2.0\Grocery.BLL.UseCases.csproj.CopyComplete
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.UseCases\obj\Debug\netstandard2.0\Grocery.BLL.UseCases.dll
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.UseCases\obj\Debug\netstandard2.0\Grocery.BLL.UseCases.pdb
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.UseCases\bin\Debug\netstandard2.0\Grocery.BLL.Entities.dll
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.UseCases\bin\Debug\netstandard2.0\Grocery.BLL.Entities.pdb

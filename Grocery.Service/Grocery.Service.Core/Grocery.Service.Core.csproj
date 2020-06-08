@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.1.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Grocery.BLL\Grocery.BLL.Activities\Grocery.BLL.Activities.csproj" />
+    <ProjectReference Include="..\..\Grocery.BLL\Grocery.BLL.Contract\Grocery.BLL.Contract.csproj" />
+    <ProjectReference Include="..\..\Grocery.BLL\Grocery.BLL.Entities\Grocery.BLL.Entities.csproj" />
+    <ProjectReference Include="..\..\Grocery.BLL\Grocery.BLL.Rules\Grocery.BLL.Rules.csproj" />
+    <ProjectReference Include="..\..\Grocery.BLL\Grocery.BLL.UseCases\Grocery.BLL.UseCases.csproj" />
+    <ProjectReference Include="..\..\Grocery.DAL\Grocery.DAL.Contract\Grocery.DAL.Contract.csproj" />
+    <ProjectReference Include="..\..\Grocery.DAL\Grocery.DAL.Repositories\Grocery.DAL.Repositories.csproj" />
+    <ProjectReference Include="..\Grocery.Service.Configuration\Grocery.Service.Configuration.csproj" />
+    <ProjectReference Include="..\Grocery.Service.Domain\Grocery.Service.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

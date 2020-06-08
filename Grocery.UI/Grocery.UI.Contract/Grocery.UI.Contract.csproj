@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6CE82752-6656-47AD-9765-E5E750C1639A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Grocery.UI.Contract</RootNamespace>
+    <AssemblyName>Grocery.UI.Contract</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IApp.cs" />
+    <Compile Include="IMainWindowController.cs" />
+    <Compile Include="IView.cs" />
+    <Compile Include="IViewFactory.cs" />
+    <Compile Include="IViewLogin.cs" />
+    <Compile Include="IViewMain.cs" />
+    <Compile Include="IViewModelFactory.cs" />
+    <Compile Include="IViewModelLogin.cs" />
+    <Compile Include="IViewModelMain.cs" />
+    <Compile Include="IViewModelProduct.cs" />
+    <Compile Include="IViewModelReport.cs" />
+    <Compile Include="IViewModelSale.cs" />
+    <Compile Include="IViewProduct.cs" />
+    <Compile Include="IViewReport.cs" />
+    <Compile Include="IViewSale.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Grocery.BLL\Grocery.BLL.Entities\Grocery.BLL.Entities.csproj">
+      <Project>{7a1bf855-6a23-4c98-856b-28e0d4cf4ce5}</Project>
+      <Name>Grocery.BLL.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Grocery.Service.Client\Grocery.Service.Client.Contract\Grocery.Service.Client.Contract.csproj">
+      <Project>{03bbc37b-7f79-4ac0-a612-d93c3cd245e5}</Project>
+      <Name>Grocery.Service.Client.Contract</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

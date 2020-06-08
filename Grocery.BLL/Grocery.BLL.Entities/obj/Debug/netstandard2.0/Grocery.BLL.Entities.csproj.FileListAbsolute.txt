@@ -1,0 +1,9 @@
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Entities\bin\Debug\netstandard2.0\Grocery.BLL.Entities.deps.json
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Entities\bin\Debug\netstandard2.0\Grocery.BLL.Entities.dll
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Entities\bin\Debug\netstandard2.0\Grocery.BLL.Entities.pdb
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Entities\obj\Debug\netstandard2.0\Grocery.BLL.Entities.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Entities\obj\Debug\netstandard2.0\Grocery.BLL.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Entities\obj\Debug\netstandard2.0\Grocery.BLL.Entities.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Entities\obj\Debug\netstandard2.0\Grocery.BLL.Entities.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Entities\obj\Debug\netstandard2.0\Grocery.BLL.Entities.dll
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.Entities\obj\Debug\netstandard2.0\Grocery.BLL.Entities.pdb

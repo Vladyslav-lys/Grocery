@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="nunit" Version="3.11.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.11.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
+    <PackageReference Include="SpecFlow" Version="3.1.67" />
+    <PackageReference Include="SpecFlow.NUnit" Version="3.1.67" />
+    <PackageReference Include="SpecRun.Runner" Version="3.1.38" />
+    <PackageReference Include="SpecRun.SpecFlow" Version="3.1.38" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Grocery.BLL\Grocery.BLL.Entities\Grocery.BLL.Entities.csproj" />
+    <ProjectReference Include="..\..\Grocery.Service\Grocery.Service.Domain\Grocery.Service.Domain.csproj" />
+    <ProjectReference Include="..\Grocery.Service.Client.Contract\Grocery.Service.Client.Contract.csproj" />
+    <ProjectReference Include="..\Grocery.Service.Client\Grocery.Service.Client.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Grocery.BLL\Grocery.BLL.Entities\Grocery.BLL.Entities.csproj" />
+    <ProjectReference Include="..\Grocery.DAL.Contexts\Grocery.DAL.Contexts.csproj" />
+    <ProjectReference Include="..\Grocery.DAL.Contract\Grocery.DAL.Contract.csproj" />
+  </ItemGroup>
+
+</Project>

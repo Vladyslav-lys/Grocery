@@ -1,0 +1,12 @@
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.DomainEvents\bin\Debug\netstandard2.0\Grocery.BLL.DomainEvents.deps.json
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.DomainEvents\bin\Debug\netstandard2.0\Grocery.BLL.DomainEvents.dll
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.DomainEvents\bin\Debug\netstandard2.0\Grocery.BLL.DomainEvents.pdb
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.DomainEvents\obj\Debug\netstandard2.0\Grocery.BLL.DomainEvents.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.DomainEvents\obj\Debug\netstandard2.0\Grocery.BLL.DomainEvents.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.DomainEvents\obj\Debug\netstandard2.0\Grocery.BLL.DomainEvents.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.DomainEvents\obj\Debug\netstandard2.0\Grocery.BLL.DomainEvents.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.DomainEvents\obj\Debug\netstandard2.0\Grocery.BLL.DomainEvents.csproj.CopyComplete
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.DomainEvents\obj\Debug\netstandard2.0\Grocery.BLL.DomainEvents.dll
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.DomainEvents\obj\Debug\netstandard2.0\Grocery.BLL.DomainEvents.pdb
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.DomainEvents\bin\Debug\netstandard2.0\Grocery.BLL.Entities.dll
+C:\Users\Vlad\source\repos\Grocery.BLL\Grocery.BLL.DomainEvents\bin\Debug\netstandard2.0\Grocery.BLL.Entities.pdb

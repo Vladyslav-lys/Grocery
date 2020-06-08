@@ -1,0 +1,9 @@
+C:\Users\Vlad\source\repos\Grocery.Service\Grocery.Service.Domain\bin\Debug\netstandard2.0\Grocery.Service.Domain.deps.json
+C:\Users\Vlad\source\repos\Grocery.Service\Grocery.Service.Domain\bin\Debug\netstandard2.0\Grocery.Service.Domain.dll
+C:\Users\Vlad\source\repos\Grocery.Service\Grocery.Service.Domain\bin\Debug\netstandard2.0\Grocery.Service.Domain.pdb
+C:\Users\Vlad\source\repos\Grocery.Service\Grocery.Service.Domain\obj\Debug\netstandard2.0\Grocery.Service.Domain.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\Grocery.Service\Grocery.Service.Domain\obj\Debug\netstandard2.0\Grocery.Service.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Grocery.Service\Grocery.Service.Domain\obj\Debug\netstandard2.0\Grocery.Service.Domain.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\Grocery.Service\Grocery.Service.Domain\obj\Debug\netstandard2.0\Grocery.Service.Domain.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\Grocery.Service\Grocery.Service.Domain\obj\Debug\netstandard2.0\Grocery.Service.Domain.dll
+C:\Users\Vlad\source\repos\Grocery.Service\Grocery.Service.Domain\obj\Debug\netstandard2.0\Grocery.Service.Domain.pdb

@@ -1,0 +1,43 @@
+﻿2019-12-12T19:14:39.2159051+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-12-12T19:14:39.2159051+02:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.38 in Framework netcore22 in x64 mode execution started
+2019-12-12T19:14:39.2159051+02:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Vlad\source\repos\Grocery.Service.Client\Grocery.Service.Client.UAT\bin\Debug\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-12-12T19:14:39.2559074+02:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Vlad\source\repos\Grocery.Service.Client\Grocery.Service.Client.UAT\bin\Debug\netcoreapp2.2\Grocery.Service.Client.UAT.dll
+2019-12-12T19:14:39.2569075+02:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Vlad\source\repos\Grocery.Service.Client\TestResults" (default)
+2019-12-12T19:14:39.2569075+02:00;VSTestExecutionThread;Info;Profile: 
+2019-12-12T19:14:39.3059103+02:00;VSTestExecutionThread;Info;Log file path: C:\Users\Vlad\source\repos\Grocery.Service.Client\TestResults\Unnamed project__2019-12-12T191439.log
+2019-12-12T19:14:39.3169109+02:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-12-12T19:14:39.3269115+02:00;Thread#12;Info;Checking license
+2019-12-12T19:14:39.3529130+02:00;Thread#12;Info;Evaluation mode: test execution starts in 12 seconds... (this delay is removed in the registered version)
+2019-12-12T19:14:51.3555995+02:00;Thread#12;Info;Evaluation delay finished.
+2019-12-12T19:14:51.3736005+02:00;Thread#12;Info;License check completed
+2019-12-12T19:14:51.3736005+02:00;Thread#12;Info;starting test run
+2019-12-12T19:14:51.3886014+02:00;Thread#12;Info;Discovering target: Default
+2019-12-12T19:14:51.3886014+02:00;Thread#12;Info;Discovering tests from assembly: C:\Users\Vlad\source\repos\Grocery.Service.Client\Grocery.Service.Client.UAT\bin\Debug\netcoreapp2.2\Grocery.Service.Client.UAT.dll
+2019-12-12T19:14:51.5776122+02:00;Thread#12;Info;Discovered tests from assembly: C:\Users\Vlad\source\repos\Grocery.Service.Client\Grocery.Service.Client.UAT\bin\Debug\netcoreapp2.2\Grocery.Service.Client.UAT.dll
+2019-12-12T19:14:51.5796123+02:00:Test Suite Dump
+2019-12-12T19:14:51.5826125+02:00:#0: Unnamed project/ - 
+2019-12-12T19:14:51.5826125+02:00:End: Test Suite Dump
+2019-12-12T19:14:51.6106141+02:00:Thread#0:Scheduler: get next test for thread 0
+2019-12-12T19:14:51.6136142+02:00:Thread#:Scheduler: at the end of normal test queue
+2019-12-12T19:14:51.6136142+02:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-12-12T19:14:51.6146143+02:00:Thread#0:Scheduler: No more tests for thread
+2019-12-12T19:14:51.6286151+02:00:Thread#-1:Scheduler: get next test for thread -1
+2019-12-12T19:14:51.6286151+02:00:Thread#:Scheduler: at the end of normal test queue
+2019-12-12T19:14:51.6286151+02:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-12-12T19:14:51.6316153+02:00;Thread#12;Info;test run finished
+2019-12-12T19:14:51.6316153+02:00;Thread#12;Info;publishing test results
+2019-12-12T19:14:51.6316153+02:00;Thread#12;Info;Not publishing results.
+2019-12-12T19:14:51.6316153+02:00;Thread#12;Info;test results published
+2019-12-12T19:14:51.6316153+02:00;Thread#12;Info;generating reports
+2019-12-12T19:14:51.8836297+02:00;Thread#12;Info;Starting external report generation process
+2019-12-12T19:14:53.6537309+02:00;Thread#12;Error;Could not generate test run result reports. An error occurred in the generator.
+2019-12-12T19:14:53.6547310+02:00;Thread#12;Error;External program returned exit code '-2'
+2019-12-12T19:14:53.6547310+02:00;Thread#12;Info;Failed generating reports
+2019-12-12T19:14:53.6657316+02:00:Total: 0
+2019-12-12T19:14:53.6687318+02:00:Succeeded: 0
+2019-12-12T19:14:53.6697318+02:00:Ignored: 0
+2019-12-12T19:14:53.6707319+02:00:Pending: 0
+2019-12-12T19:14:53.6717320+02:00:Skipped: 0
+2019-12-12T19:14:53.6727320+02:00:Failed: 0
+2019-12-12T19:14:53.6867328+02:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

@@ -1,0 +1,185 @@
+﻿<UserControl x:Class="Grocery.UI.Control.ProductView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Grocery.UI.Control"
+             mc:Ignorable="d" 
+             d:DesignHeight="700" 
+             d:DesignWidth="900">
+
+    <UserControl.Resources>
+        <Image x:Key="BackImage" Source="C:\Users\Vlad\Desktop\img_70486.png"/>
+    </UserControl.Resources>
+
+    <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition Width="700"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Row="0" Grid.ColumnSpan="2">
+            <StackPanel Margin="0,0,0,0" Width="auto" 
+                        x:Name="MainPanel"
+                        Height="70" 
+                        Background="CadetBlue"
+                        Orientation="Horizontal">
+                
+                <Button x:Name="BackBtn" 
+                        Height="50"
+                        Width="50"
+                        Margin="10 0 0 0"
+                        Focusable="False"
+                        Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"
+                        Command="{Binding GetBackCommand}"
+                        Content="{StaticResource BackImage}"/>
+            </StackPanel>
+        </Grid>
+
+        <StackPanel HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0 30 0 0" Grid.Column="1" Grid.Row="1" Orientation="Vertical">
+            <Grid Width="500" Margin="0 0 0 0">
+                <Label x:Name="lblUnit" Margin="0 0 0 0" Foreground="Black" Content="Unit:">
+                </Label>
+
+                <TextBox x:Name="unitTxt" Margin="115 10 230 10">
+                </TextBox>
+
+                <Label x:Name="errorUnit" Margin="270 0 0 0" Foreground="Coral" Content="" VerticalAlignment="Center" HorizontalAlignment="Left">
+                </Label>
+            </Grid>
+
+            <Grid Width="500" Margin="0 0 0 0" Grid.Column="0" Grid.Row="2">
+                <Label x:Name="lblTareChange" Margin="0 0 0 0" Foreground="Black" Content="Tare change:">
+                </Label>
+
+                <ComboBox x:Name="listTareChange" Height="25" Width="100" Margin="-170 0 0 10"/>
+            </Grid>
+
+            <Grid Width="500" Margin="0 0 0 0" Grid.Column="0" Grid.Row="2">
+                <Label x:Name="lblCount" Margin="0 0 0 0" Foreground="Black" Content="Count:">
+                </Label>
+
+                <TextBox x:Name="countTxt" Margin="115 10 230 10" >
+                </TextBox>
+
+                <Label x:Name="errorCount" Margin="270 0 0 10" Foreground="Coral" Content="" VerticalAlignment="Center" HorizontalAlignment="Left">
+                </Label>
+            </Grid>
+
+            <Grid Width="500" Margin="0 0 0 0" Grid.Column="0" Grid.Row="2">
+                <Label x:Name="lblProvider" Margin="0 0 0 0" Foreground="Black" Content="Provider:">
+                </Label>
+
+                <ComboBox x:Name="listProvider" Height="25" Width="100" Margin="-170 0 0 10"/>
+            </Grid>
+
+            <Grid Width="500" Margin="0 0 0 0" Grid.Column="0" Grid.Row="2">
+                <Label x:Name="lblDatetime" Margin="0 0 0 0" Foreground="Black" Content="Datetime:">
+                </Label>
+
+                <DatePicker x:Name="datetimePick" Margin="115 0 230 10"/>
+
+                <Label x:Name="errorDatetime" Margin="270 0 0 10" Foreground="Coral" Content="" VerticalAlignment="Center" HorizontalAlignment="Left">
+                </Label>
+            </Grid>
+
+            <Grid Width="500" Margin="0 0 0 0" Grid.Column="0" Grid.Row="2">
+                <Label x:Name="lblCategory" Margin="0 0 0 0" Foreground="Black" Content="Category:">
+                </Label>
+
+                <ComboBox x:Name="listCategory" Height="25" Width="100" Margin="-170 0 0 10"/>
+            </Grid>
+
+            <Grid Width="500" Margin="0 0 0 0" Grid.Column="0" Grid.Row="2">
+                <Label x:Name="lblClass" Margin="0 0 0 0" Foreground="Black" Content="Class:">
+                </Label>
+
+                <ComboBox x:Name="listClass" Height="25" Width="100" Margin="-170 0 0 10"/>
+            </Grid>
+
+            <Grid Width="500" Margin="0 0 0 0" Grid.Column="0" Grid.Row="2">
+                <Label x:Name="lblExprationDate" Margin="0 0 0 0" Foreground="Black" Content="Expration date:">
+                </Label>
+
+                <DatePicker x:Name="expirationDatePick" Margin="115 0 230 0"/>
+
+                <Label x:Name="errorExpirationDate" Margin="270 0 0 10" Foreground="Coral" Content="" VerticalAlignment="Center" HorizontalAlignment="Left">
+                </Label>
+            </Grid>
+
+            <Grid Width="500" Margin="0 0 0 0" Grid.Column="0" Grid.Row="2">
+                <Label x:Name="lblAllPurchasePrice" Margin="0 0 0 0" Foreground="Black" Content="All purchase price:">
+                </Label>
+
+                <TextBox x:Name="allPurchasePriceTxt" Margin="115 10 230 0" >
+                </TextBox>
+
+                <Label x:Name="errorAllPurchasePrice" Margin="270 0 0 0" Foreground="Coral" Content="" VerticalAlignment="Center" HorizontalAlignment="Left">
+                </Label>
+            </Grid>
+
+            <Grid Width="500" Margin="0 0 0 0" Grid.Column="0" Grid.Row="2">
+                <Label x:Name="lblAllSalesPrice" Margin="0 0 0 0" Foreground="Black" Content="All sales price:">
+                </Label>
+
+                <TextBox x:Name="allSalesPriceTxt" Margin="115 10 230 10">
+                </TextBox>
+
+                <Label x:Name="errorAllSalesPrice" Margin="270 0 0 0" Foreground="Coral" Content="" VerticalAlignment="Center" HorizontalAlignment="Left">
+                </Label>
+            </Grid>
+
+            <Grid Width="500" Margin="0 0 0 0" Grid.Column="0" Grid.Row="2">
+                <Label x:Name="lblDepartment" Margin="0 0 0 0" Foreground="Black" Content="Department:">
+                </Label>
+
+                <TextBox x:Name="departmentTxt" Margin="115 0 230 10" IsEnabled="False">
+                </TextBox>
+            </Grid>
+
+            <Grid Width="500" Margin="0 0 0 0" Grid.Column="0" Grid.Row="2">
+                <Label x:Name="lblSeller" Margin="0 0 0 10" Foreground="Black" Content="Seller:">
+                </Label>
+
+                <TextBox x:Name="sellerTxt" Margin="115 10 230 10" IsEnabled="False">
+                </TextBox>
+            </Grid>
+
+            <Grid Width="500" Margin="0 0 0 0" Grid.Column="0" Grid.Row="2">
+                <Label x:Name="lblReturned" Margin="0 0 0 0" Foreground="Black" Content="Returned:">
+                </Label>
+
+                <CheckBox x:Name="checkReturned" Margin="115 0 0 10" VerticalAlignment="Center" IsChecked="{Binding ReturnedChecked}"/>
+            </Grid>
+
+            <Grid Width="500" Margin="0 0 0 0" Grid.Column="0" Grid.Row="2">
+                <Label x:Name="lblReturnedDate" Margin="0 0 0 0" Foreground="Black" Content="Returned date:">
+                </Label>
+
+                <DatePicker x:Name="returnedDatePick" Margin="115 0 230 10" IsEnabled="False"/>
+
+                <Label x:Name="errorReturnedDate" Margin="270 0 0 0" Foreground="Coral" Content="" VerticalAlignment="Center" HorizontalAlignment="Left">
+                </Label>
+            </Grid>
+
+            <Grid Width="500" Margin="0 0 0 0" Grid.Column="0" Grid.Row="2">
+                <Label x:Name="lblWritenOff" Margin="0 0 0 0" Foreground="Black" Content="Writen off:">
+                </Label>
+
+                <CheckBox x:Name="checkWritenOff" Margin="115 0 0 10" VerticalAlignment="Center"/>
+            </Grid>
+
+            <Button x:Name="ExecuteBtn" 
+                        Margin="150 20 230 0"
+                        Focusable="False"
+                        Content="Confirm"
+                        Command="{Binding ExecuteCommand}"/>
+        </StackPanel>
+
+    </Grid>
+</UserControl>
